@@ -1,0 +1,14 @@
+C:\Projects\Emploees_Management_App\obj\Debug\Emploees_Management_App.csproj.AssemblyReference.cache
+C:\Projects\Emploees_Management_App\obj\Debug\Emploees_Management_App.Form1.resources
+C:\Projects\Emploees_Management_App\obj\Debug\Emploees_Management_App.Properties.Resources.resources
+C:\Projects\Emploees_Management_App\obj\Debug\Emploees_Management_App.csproj.GenerateResource.cache
+C:\Projects\Emploees_Management_App\obj\Debug\Emploees_Management_App.csproj.CoreCompileInputs.cache
+C:\Projects\Emploees_Management_App\bin\Debug\Emploees_Management_App.exe.config
+C:\Projects\Emploees_Management_App\bin\Debug\Emploees_Management_App.exe
+C:\Projects\Emploees_Management_App\bin\Debug\Emploees_Management_App.pdb
+C:\Projects\Emploees_Management_App\obj\Debug\Emploees_Management_App.exe
+C:\Projects\Emploees_Management_App\obj\Debug\Emploees_Management_App.pdb
+C:\Projects\Emploees_Management_App\obj\Debug\Emploees_Management_App.Home.resources
+C:\Projects\Emploees_Management_App\obj\Debug\Emploees_Management_App.employeeFrm.resources
+C:\Projects\Emploees_Management_App\obj\Debug\Emploees_Management_App.DeleteFrm.resources
+C:\Projects\Emploees_Management_App\obj\Debug\Emploees_Management_App.ViewEmployeesFrm.resources
